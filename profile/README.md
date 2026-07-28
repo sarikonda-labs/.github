@@ -35,3 +35,11 @@ To learn more about our permissions structure, member guidelines, and client acc
 * **Location:** Hyderabad, Telangana, India
 
 ---
+
+## 💖 Support Sarikonda Labs
+
+If you find our open-source tools, cloud architectures, and UI systems helpful, consider sponsoring our research and infrastructure:
+
+[![Sponsor Sarikonda Labs](https://img.shields.io/badge/Sponsor-💖_Sarikonda_Labs-ff69b4?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/manoharrajusarikonda331-mani)
+
+---
