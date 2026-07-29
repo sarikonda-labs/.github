@@ -38,8 +38,9 @@ To learn more about our permissions structure, member guidelines, and client acc
 
 ## 💖 Support Sarikonda Labs
 
-If you find our open-source tools, cloud architectures, and UI systems helpful, consider sponsoring our research and infrastructure:
+If you find our open-source tools, cloud architectures, and UI systems helpful, consider sponsoring our ongoing research and infrastructure costs:
 
-[![Sponsor Sarikonda Labs](https://img.shields.io/badge/Sponsor-💖_Sarikonda_Labs-ff69b4?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/manoharrajusarikonda331-mani)
+[![Sponsor Sarikonda Labs](https://img.shields.io/badge/Sponsor-💖_Sarikonda_Labs-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sarikonda-labs)
+[![Sponsor Founder](https://img.shields.io/badge/Sponsor_Founder-👤_Mani-2ea44f?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/manoharrajusarikonda331-mani)
 
 ---
