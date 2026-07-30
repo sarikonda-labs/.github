@@ -31,7 +31,7 @@ To learn more about our permissions structure, member guidelines, and client acc
 ### 🔗 Connect & Collaborate
 * **Founder & Lead Architect:** [Sarikonda Manohar Raju (Mani)](https://github.com/manoharrajusarikonda331-mani)
 * **LinkedIn:** [Sarikonda Manohar Raju](https://linkedin.com/in/sarikonda-manohar-raju-614bba27a)
-* **Instagram:** [@manohar_raju_official_331](https://instagram.com/manohar_raju_official_331)
+* **Instagram:** [@manohar_raju_officiall_331](https://instagram.com/manohar_raju_officiall_331)
 * **Location:** Hyderabad, Telangana, India
 
 ---
